@@ -1,0 +1,24 @@
+name                                     , type             , code       , payment_fee, icon
+Maybank Virtual Account                  , Virtual Account  , MYBVA      , 4250       , https://akmalweb.my.id/api/payment/gambar.php?code=ZT91lrOEad1582929126
+Permata Virtual Account                  , Virtual Account  , PERMATAVA  , 4250       , https://akmalweb.my.id/api/payment/gambar.php?code=szezRhAALB1583408731
+BNI Virtual Account                      , Virtual Account  , BNIVA      , 4250       , https://akmalweb.my.id/api/payment/gambar.php?code=n22Qsh8jMa1583433577
+BRI Virtual Account                      , Virtual Account  , BRIVA      , 4250       , https://akmalweb.my.id/api/payment/gambar.php?code=8WQ3APST5s1579461828
+Mandiri Virtual Account                  , Virtual Account  , MANDIRIVA  , 4250       , https://akmalweb.my.id/api/payment/gambar.php?code=T9Z012UE331583531536
+BCA Virtual Account                      , Virtual Account  , BCAVA      , 5500       , https://akmalweb.my.id/api/payment/gambar.php?code=ytBKvaleGy1605201833
+Sinarmas Virtual Account                 , Virtual Account  , SMSVA      , 4250       , https://akmalweb.my.id/api/payment/gambar.php?code=KHcqcmqVFQ1607091889
+BRI Virtual Account (Open Payment)       , Virtual Account  , BRIVAOP    , 4250       , https://akmalweb.my.id/api/payment/gambar.php?code=OnIv6Aawbp1607429662
+CIMB Niaga Virtual Account (Open Payment), Virtual Account  , CIMBVAOP   , 4250       , https://akmalweb.my.id/api/payment/gambar.php?code=kU6OjhucMD1607538212
+Danamon Virtual Account (Open Payment)   , Virtual Account  , DANAMONOP  , 4250       , https://akmalweb.my.id/api/payment/gambar.php?code=nVVFmyjGzq1608100282
+Muamalat Virtual Account                 , Virtual Account  , MUAMALATVA , 4250       , https://akmalweb.my.id/api/payment/gambar.php?code=GGwwcgdYaG1611929720
+CIMB Virtual Account                     , Virtual Account  , CIMBVA     , 4250       , https://akmalweb.my.id/api/payment/gambar.php?code=WtEJwfuphn1614003973
+Sahabat Sampoerna Virtual Account        , Virtual Account  , SAMPOERNAVA, 4250       , https://akmalweb.my.id/api/payment/gambar.php?code=YAN25leid81631608321
+Hana Bank Virtual Account (Open Payment) , Virtual Account  , HANAVAOP   , 4250       , https://akmalweb.my.id/api/payment/gambar.php?code=ml13c9N7hk1631608749
+BSI Virtual Account                      , Virtual Account  , BSIVA      , 4250       , https://akmalweb.my.id/api/payment/gambar.php?code=tEclz5Assb1643375216
+BSI Virtual Account (Open Payment)       , Virtual Account  , BSIVAOP    , 3333       , https://akmalweb.my.id/api/payment/gambar.php?code=zsJZthjjYR1644239274
+BNC Virtual Account                      , Virtual Account  , BNCVA      , 4250       , https://akmalweb.my.id/api/payment/gambar.php?code=3IXRIbogu11664370160
+Alfamart                                 , Convenience Store, ALFAMART   , 6000       , https://akmalweb.my.id/api/payment/gambar.php?code=jiGZMKp2RD1583433506
+Indomaret                                , Convenience Store, INDOMARET  , 3500       , https://akmalweb.my.id/api/payment/gambar.php?code=zNzuO5AuLw1583513974
+Alfamidi                                 , Convenience Store, ALFAMIDI   , 6000       , https://akmalweb.my.id/api/payment/gambar.php?code=aQTdaUC2GO1593660384
+OVO                                      , E-Wallet         , OVO        , 0          , https://akmalweb.my.id/api/payment/gambar.php?code=fH6Y7wDT171586199243
+QRIS (Customizable)                      , E-Wallet         , QRISC      , 0          , https://akmalweb.my.id/api/payment/gambar.php?code=m9FtFwaBCg1623157494
+ShopeePay                                , E-Wallet         , SHOPEEPAY  , 0          , https://akmalweb.my.id/api/payment/gambar.php?code=d204uajhlS1655719774
